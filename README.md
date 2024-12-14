@@ -2,6 +2,8 @@
 Exercise for MSCH-C220
 
 The final step adding "juicy" features to a simple brick-breaker game.
+Changed colors
+Added Eyes
 
 
 ## Implementation
